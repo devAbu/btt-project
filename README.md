@@ -1,2 +1,2 @@
 # btt-project
-meanStack Project test test
+meanStack Project
